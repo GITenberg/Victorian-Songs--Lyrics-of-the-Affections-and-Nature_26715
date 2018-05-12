@@ -1,0 +1,44 @@
+_repo: Victorian-Songs--Lyrics-of-the-Affections-and-Nature_26715
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund W. (Edmund William)
+    - Gosse, Edmund William, Sir
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+  illustrator: &id001
+    agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, Edmund Henry
+    - Garrett, E. H. (Edmund Henry)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+covers:
+- cover_type: archival
+  image_path: 26715-h/images/cover.jpg
+creator:
+  editor: *id001
+description: ''
+gutenberg_issued: '2008-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26715'
+  lccn: '13021417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ballads, English -- Texts'
+- !lcsh 'English poetry -- 19th century'
+title: 'Victorian Songs: Lyrics of the Affections and Nature'
+url: http://www.gutenberg.org/ebooks/26715
